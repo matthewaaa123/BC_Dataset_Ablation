@@ -1,10 +1,10 @@
-Behavior Cloning Dataset Ablation
+# Behavior Cloning Dataset Ablation
 Codebase for the paper: Assessing Behavior Cloning with RGB Inputs in Surgical Robotics Through Dataset Ablation
 
-The notebooks Full_Dataset through 1_100_Dataset contain the dataset ablation experiments
-The notebook EDA contains an exploratory data analysis
-The notebook Full_Dataset_TD3_BC contains the TD3+BC experiment
-The notebooks Loss_Curves and Evaluation_Curves contain the code for the paper figures
-All code is written using Python Jupyter Notebooks via Google Colab
-The csv files contain the model losses and evaluation results
-The saved models are available in the repository's releases section
+1. The notebooks Full_Dataset through 1_100_Dataset contain the dataset ablation experiments
+2. The notebook EDA contains an exploratory data analysis
+3. The notebook Full_Dataset_TD3_BC contains the TD3+BC experiment
+4. The notebooks Loss_Curves and Evaluation_Curves contain the code for the paper figures
+5. All code is written using Python Jupyter Notebooks via Google Colab
+6. The csv files contain the model losses and evaluation results
+7. The saved models are available in the repository's releases section
