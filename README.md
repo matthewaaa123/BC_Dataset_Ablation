@@ -7,3 +7,5 @@ Codebase for the paper: Assessing Behavior Cloning with RGB Inputs in Surgical R
 4. The notebooks Loss_Curves and Evaluation_Curves contain the code for the paper figures
 5. All code is written using Python Jupyter Notebooks via Google Colab
 6. The csv files contain the model losses and evaluation results
+
+All python notebook files are fully documented and explained. Open one to learn more.
